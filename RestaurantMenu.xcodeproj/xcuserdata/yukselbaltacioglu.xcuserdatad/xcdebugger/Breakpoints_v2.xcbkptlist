@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "566D08DE-47F4-4FF0-BC22-92CCC69CA99A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0EED55D-9720-4941-8C23-742B25AB3822"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurantMenu/FoodDetailedVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "FoodDetailedVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F0EED55D-9720-4941-8C23-742B25AB3822 - 8f70afd5ebf33f41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantMenu.FoodDetailedVC.foodDescription.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RestaurantMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yukselbaltacioglu/Desktop/RestaurantMenu/RestaurantMenu/FoodDetailedVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F0EED55D-9720-4941-8C23-742B25AB3822 - c67337935d350b75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantMenu.FoodDetailedVC.foodDescription.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RestaurantMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yukselbaltacioglu/Desktop/RestaurantMenu/RestaurantMenu/FoodDetailedVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "F0EED55D-9720-4941-8C23-742B25AB3822 - 550daf4c23e6be29"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantMenu.FoodDetailedVC.foodDescription.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RestaurantMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yukselbaltacioglu/Desktop/RestaurantMenu/RestaurantMenu/FoodDetailedVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F0EED55D-9720-4941-8C23-742B25AB3822 - b3ffbad5acfac681"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantMenu.FoodDetailedVC.foodDescription.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RestaurantMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yukselbaltacioglu/Desktop/RestaurantMenu/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F0EED55D-9720-4941-8C23-742B25AB3822 - 8b13ac2b703a07b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantMenu.FoodDetailedVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RestaurantMenu.FoodDetailedVC"
+                  moduleName = "RestaurantMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yukselbaltacioglu/Desktop/RestaurantMenu/RestaurantMenu/FoodDetailedVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "F0EED55D-9720-4941-8C23-742B25AB3822 - 27650374b096ce79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantMenu.FoodDetailedVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RestaurantMenu.FoodDetailedVC&gt;"
+                  moduleName = "RestaurantMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yukselbaltacioglu/Desktop/RestaurantMenu/RestaurantMenu/FoodDetailedVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
